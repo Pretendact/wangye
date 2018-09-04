@@ -1,0 +1,22 @@
+* {
+	margin: 0; padding: 0; box-sizing: border-box;
+}
+
+header {
+	height: 4rem;
+	background: #f3f3f3;
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 0.02rem solid #ddd;
+}
+
+.message {
+	margin: 1rem;
+	
+}
+
+
+.sys {
+	margin: 1rem;
+	
+}
